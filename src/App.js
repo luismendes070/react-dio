@@ -2,20 +2,19 @@ import Item from './components/Item';
 import Card from './components/Card';
 
 // import logo from './logo.svg';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
     <>
     <h1>Aplicação com React</h1>
     <ul>
-      <Item texto="Item 1"/>
-      <Item texto="Item 2"/>
-      <Item texto="Item 3"/>
+      <Item>Item 1 </Item>
+      <Item>Item 2 </Item>
+      <Item>Item 3 </Item>
     </ul>
     
-    <Card valor="Adicionar"/>
-    <Card valor="Remover"/>
+    <Card/>
 
     </>
   );
