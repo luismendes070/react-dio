@@ -9,9 +9,18 @@ function App() {
     <>
     <h1>Aplicação com React</h1>
     <ul>
-      <Item>Item 1 </Item>
-      <Item>Item 2 </Item>
-      <Item>Item 3 </Item>
+      <Item>
+        Item 1 
+      </Item>
+
+      <Item>
+        Item 2 
+      </Item>
+
+      <Item>
+        Item 3 
+        </Item>
+
     </ul>
     
     <Card/>
