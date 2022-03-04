@@ -2,7 +2,7 @@ import Item from './components/Item';
 import Card from './components/Card';
 
 // import logo from './logo.svg';
-// import './App.css';
+import './App.css';
 
 function App() {
   return (
